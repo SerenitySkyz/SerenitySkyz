@@ -1,16 +1,13 @@
-## Hi there 👋
+# Cherie Young
 
-<!--
-**SerenitySkyz/SerenitySkyz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build at the place where technology meets the nervous system.
 
-Here are some ideas to get you started:
+Voice agents, regulation tools, and AI systems designed with the knowledge that a human body — with a history, a threshold, a need to feel heard — is always on the other end.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌙 Portfolio: [serenityskyz.com](https://serenityskyz.com)
+📖 Writing: [Unmapped Innerspace](https://unmappedinnerspace.substack.com)
+🛠️ Currently building: Just Before · Ajax Web AI voice architecture · Empathetic AI Systems
+
+---
+
+*AI Implementation · Voice Systems · Nervous System-Aware Design · Community Mental Health*
